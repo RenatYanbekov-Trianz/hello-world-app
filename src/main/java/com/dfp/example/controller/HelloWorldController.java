@@ -25,7 +25,7 @@ public class HelloWorldController {
                 "    background-size: 100% auto;" +
                 "}" +
                 "</style>" +
-                "<body style=\"background-color: #ee9c34\">\n" +
+                "<body">\n" +
                 " <div style=\"color: white;font-size: 35px;padding: 10px;font-weight: 900px\">Neomegha</div>\n" +
                 "    <div style=\"height: 250px\"></div>\n" +
                 "<div>\n" +
