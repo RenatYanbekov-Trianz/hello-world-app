@@ -14,8 +14,17 @@ public class HelloWorldController {
         return "<!DOCTYPE html>\n" +
                 "<html>\n" +
                 "<head>\n" +
-                "<title>Nodejs</title>\n" +
+                "<title>Trianz - Concierto.cloud</title>\n" +
                 "</head>\n" +
+                "<style>" +
+                "body {" +
+                "    margin: 0;" +
+                "    background:" +
+                "        url('background.png') no-repeat center top," +
+                "        #000000;" +
+                "    background-size: 100% auto;" +
+                "}" +
+                "</style>" +
                 "<body style=\"background-color: #ee9c34\">\n" +
                 " <div style=\"color: white;font-size: 35px;padding: 10px;font-weight: 900px\">Neomegha</div>\n" +
                 "    <div style=\"height: 250px\"></div>\n" +
