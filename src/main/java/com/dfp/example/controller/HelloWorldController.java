@@ -20,7 +20,7 @@ public class HelloWorldController {
                 "body {" +
                 "    margin: 0;" +
                 "    background:" +
-                "        url('background.png') no-repeat center top," +
+                "        url('/images/background.png') no-repeat center top," +
                 "        #000000;" +
                 "    background-size: 100% auto;" +
                 "}" +
