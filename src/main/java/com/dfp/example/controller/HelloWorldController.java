@@ -25,13 +25,12 @@ public class HelloWorldController {
                 "    background-size: 100% auto;" +
                 "}" +
                 "</style>" +
-                "<body">\n" +
-                " <div style=\"color: white;font-size: 35px;padding: 10px;font-weight: 900px\">Neomegha</div>\n" +
+                "<body>\n" +
+                " <div style=\"background-color: black; padding: 35px;padding: 10px;\"><img src=\"/images/concierto-logo.png\"/></div>\n" +
                 "    <div style=\"height: 250px\"></div>\n" +
                 "<div>\n" +
                 "    <center>\n" +
-                "    <h1 style=\"color: white;font-size: 40px\">Welcome to Java Micro-services.</h1>\n" +
-                "    <h6 style=\"color: white;font-size: 40px\">Modify the source code in this repository to build your application</h6>\n" +
+                "    <h1 style=\"color: white;font-size: 40px\">Welcome to AWS Atlanta Workshop Test Application.</h1>\n" +
                 "    </center>    \n" +
                 "</div>\n" +
                 "</body>\n" +
